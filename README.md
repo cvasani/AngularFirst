@@ -41,5 +41,6 @@ You can, and you should contribute using PRs and/or issues.
 
 Feel free to fork this project to make any modifications. It's MIT licensed.
 
-
+Added Jade suppprt and sass compiler is replaced by gulp-sass.
+watch every changes for newly added supports .
 
